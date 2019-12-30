@@ -1,7 +1,8 @@
 from tkinter import *
 import tkinter as tk
 from tkinter import ttk
-from tkinter import  messagebox as mb
+from tkinter import  messagebox as m_box
+
 
 def raise_frame(frame):
     frame.tkraise()
